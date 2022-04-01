@@ -11,6 +11,9 @@ A Simple NFT Generation Tool. 一个简单的NFT生成工具. Developed using Un
 >4: 指定层级,越小越在底层
 
 
+Unity3D 2021.2.17
+
+
 # 暂未支持
 >1: 随机
 >
