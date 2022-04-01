@@ -12,7 +12,7 @@ A Simple NFT Generation Tool. 一个简单的NFT生成工具. Developed using Un
 >2: 部位权重
 >3: 锚点配置
 
-![Image text](https://github.com/huangkumao/NFTbuilder/ReadmeFiles/1.png)
+![Image text](https://github.com/huangkumao/NFTbuilder/blob/main/ReadmeFiles/1.png)
 
 # 特别感谢
 https://www.starwow.one/
